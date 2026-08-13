@@ -5,9 +5,7 @@ fontsize: 10pt
 
 # Curriculum Vitae
 
-# João Rua
-
-**Contacto:**
+## João Rua
 - **Telefone:** 935080876
 - **E-mail:** Jviegasrua10@gmail.com
 - **Data de Nascimento:** 11/08/2004

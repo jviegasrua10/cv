@@ -10,8 +10,8 @@ on:
     branches:
       - development
     paths-ignore:
-      - ${{ env.PDF_FILE }}
-      - ${{ env.DOC_FILE }}
+      - "cv-jmpvr.pdf"
+      - "cv-jmpvr.docx"
 
 jobs:
   generate:

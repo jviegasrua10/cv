@@ -1,0 +1,61 @@
+name: Generate CV
+
+env:
+  PDF_FILE="cv-jmpvr.pdf"
+  DOC_FILE="cv-jmpvr.docx"
+  MD_FILE="cv-jmpvr.md"
+
+on:
+  push:
+    branches:
+      - development
+    paths-ignore:
+      - ${{ env.PDF_FILE }}
+      - ${{ env.DOC_FILE }}
+
+jobs:
+  generate:
+    runs-on: ubuntu-24.04
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Install pandoc and LaTeX
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc texlive-latex-base texlive-fonts-recommended texlive-extra-utils texlive-latex-extra
+          pip install python-docx==1.1.2
+
+      - name: Convert Markdown to PDF
+        run: pandoc ${{ env.MD_FILE }} -o ${{ env.PDF_FILE }} --pdf-engine=pdflatex
+
+      - name: Create compact reference DOCX
+        run: |
+          pandoc --print-default-data-file reference.docx > reference.docx
+          python3 create_reference_doc.py
+
+      - name: Convert Markdown to DOCX
+        run: pandoc ${{ env.MD_FILE }} -o ${{ env.DOC_FILE }} --reference-doc=reference.docx
+
+      - name: Check for changes
+        id: verify-changed-files
+        run: |
+          if [ -n "$(git status --porcelain ${{ env.PDF_FILE }} ${{ env.DOC_FILE }})" ]; then
+            echo "files_changed=true" >> $GITHUB_OUTPUT
+          else
+            echo "files_changed=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit and push changes
+        if: steps.verify-changed-files.outputs.files_changed == 'true'
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add ${{ env.PDF_FILE }} ${{ env.DOC_FILE }}
+          git commit -m "Update generated CV files [skip ci]"
+          git push

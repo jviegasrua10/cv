@@ -1,9 +1,9 @@
 name: Generate CV
 
 env:
-  PDF_FILE="cv-jmpvr.pdf"
-  DOC_FILE="cv-jmpvr.docx"
-  MD_FILE="cv-jmpvr.md"
+  PDF_FILE: "cv-jmpvr.pdf"
+  DOC_FILE: "cv-jmpvr.docx"
+  MD_FILE: "cv-jmpvr.md"
 
 on:
   push:

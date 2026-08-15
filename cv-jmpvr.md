@@ -1,7 +1,7 @@
-```yaml
+---
 geometry: "top=0.75in,bottom=0.75in,left=0.75in,right=0.75in"
 fontsize: 10pt
-```
+---
 
 # Curriculum Vitae
 

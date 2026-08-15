@@ -13,7 +13,6 @@ Data de Nascimento: 11/08/2004
 
 Localização: Rua Manuel Marques, Lisboa
 
-
 ## Formação Académica
 
 ### Licenciatura em Direito — Faculdade de Direito da Universidade de Lisboa
@@ -23,7 +22,6 @@ Localização: Rua Manuel Marques, Lisboa
 ### Ensino Básico e Secundário — St. Peter's International School
 **Período:** Concluído em 2022  
 - **Média Final do Secundário:** 18,6
-
 
 ## Experiência Profissional
 
@@ -35,14 +33,12 @@ Localização: Rua Manuel Marques, Lisboa
 **Período:** 2025  
 - Experiência prática em funções notariais e Direito da Família e das Sucessões.
 
-
 ## Certificações e Formação Complementar
 
 - **CAE** — Cambridge Certificate in Advanced English (C1)
 - Breve Curso de Direito do Desporto
 - Breve Curso de Direito da Propriedade Industrial
 - Curso Intensivo de Arrendamento Urbano e Despejo
-
 
 ## Competências Jurídicas
 - Direitos Reais
@@ -53,32 +49,25 @@ Localização: Rua Manuel Marques, Lisboa
 - Direito das Sucessões
 - Direito Laboral
 
-
 ## Moot Courts
 - Moot Court de Direito Administrativo
 - Moot Court de Direito da União Europeia
 - Moot Court de Direito Internacional Público e IA
 
-
 ## Idiomas
-
 - **Inglês:** C2
 - **Espanhol:** B2
 - **Italiano:** B1
 - **Alemão:** A2
 
-
 ## Interesses
-
 - **Ténis:** Experiência de alta competição
 - **Futebol**
 - **Ginásio**
 - **Fotografia**
 - **Viajar:** 24 países visitados
 
-
 ## Projetos e Planos Futuros
-
 - **Mestrado em Direito e Ciência Jurídica Laboral:** a iniciar em setembro
 - **Desenvolvimento Linguístico:** Desenvolver competências linguísticas em Espanhol e Alemão
 - **Pós-Graduação:** Pós-Graduação em Direito Imobiliário

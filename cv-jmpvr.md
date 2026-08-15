@@ -7,10 +7,10 @@ fontsize: 10pt
 
 ## João Rua
 
-**Telefone**: 935080876  
+**Telefone**: +351 93 508 0876  
 **E-mail**: jviegasrua10@gmail.com  
 **Data de Nascimento**: 11/08/2004  
-**Localização**: Rua Manuel Marques, Lisboa  
+**Localização**: Rua Manuel Marques, Lisboa, Portugal
 
 ## Formação Académica
 

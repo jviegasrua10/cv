@@ -3,12 +3,14 @@ geometry: "top=0.75in,bottom=0.75in,left=0.75in,right=0.75in"
 fontsize: 10pt
 ---
 
-# João Rua
+# Curriculum Vitae
 
-- **Telefone**: 935080876
-- **E-mail**: jviegasrua10@gmail.com
-- **Data de Nascimento**: 11/08/2004
-- **Localização**: Rua Manuel Marques, Lisboa
+## João Rua
+
+**Telefone**: 935080876
+**E-mail**: jviegasrua10@gmail.com
+**Data de Nascimento**: 11/08/2004
+**Localização**: Rua Manuel Marques, Lisboa
 
 ## Formação Académica
 

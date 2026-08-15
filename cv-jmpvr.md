@@ -5,7 +5,13 @@ fontsize: 10pt
 
 # João Rua
 
-Telefone: 935080876 | E-mail: jviegasrua10@gmail.com | Data de Nascimento: 11/08/2004 | Localização: Rua Manuel Marques, Lisboa
+Telefone: 935080876
+
+E-mail: jviegasrua10@gmail.com
+
+Data de Nascimento: 11/08/2004
+
+Localização: Rua Manuel Marques, Lisboa
 
 ---
 
@@ -51,7 +57,7 @@ Telefone: 935080876 | E-mail: jviegasrua10@gmail.com | Data de Nascimento: 11/08
 - Direito das Sucessões
 - Direito Laboral
 
---+
+---
 
 ## Moot Courts
 - Moot Court de Direito Administrativo

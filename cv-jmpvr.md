@@ -1,6 +1,8 @@
 ---
 geometry: "top=0.75in,bottom=0.75in,left=0.75in,right=0.75in"
 fontsize: 10pt
+header-includes:
+  - \usepackage{needspace}
 ---
 
 # Curriculum Vitae
@@ -53,6 +55,7 @@ fontsize: 10pt
 - Moot Court de Direito da União Europeia
 - Moot Court de Direito Internacional Público e IA
 
+\needspace{14\baselineskip}
 ## Idiomas
 - Inglês: C2
 - Espanhol: B2

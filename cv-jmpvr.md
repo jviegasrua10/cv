@@ -9,69 +9,83 @@ header-includes:
 
 ## João Rua
 
-**Telefone**: +351 93 508 0876  
-**E-mail**: jviegasrua10@gmail.com  
-**Data de Nascimento**: 11/08/2004  
-**Localização**: Rua Manuel Marques, Lisboa, Portugal
+**Phone**: +351 93 508 0876  
+**Email**: jviegasrua10@gmail.com  
+**Date of Birth**: 11/08/2004  
+**Location**: Rua Manuel Marques, Lisbon, Portugal
 
-## Formação Académica
+## Education
 
-### Licenciatura em Direito — Faculdade de Direito da Universidade de Lisboa
-**Período:** 2022 – 2026  
-- **Média Final:** 15,4
+### Bachelor of Laws (LL.B.) — Faculty of Law, University of Lisbon
 
-### Ensino Básico e Secundário — St. Peter's International School
-**Período:** Concluído em 2022  
-- **Média Final do Secundário:** 18,6
+**Period:** 2022 – 2026
 
-## Experiência Profissional
+- **Final Grade:** 15.4/20
 
-### Estagiário de Verão — Garrigues
-**Período:** 07/2025 – 08/2025  
-- Atuação no Departamento de Imobiliário.
+### Primary and Secondary Education — St. Peter's International School
 
-### Estagiário de Verão — Cartório Notarial Sofia Henriques
-**Período:** 2024  
-- Experiência prática em funções notariais e Direito da Família e das Sucessões.
+**Period:** Completed in 2022
 
-## Certificações e Formação Complementar
+- **Final Secondary School Grade:** 18.6/20
+
+## Professional Experience
+
+### Summer Intern — Garrigues
+
+**Period:** 07/2025 – 08/2025
+
+- Worked within the Real Estate Department.
+
+### Summer Intern — Sofia Henriques Notarial Office
+
+**Period:** 2024
+
+- Practical experience in notarial functions and Family and Succession Law.
+
+## Certifications and Additional Training
 
 - **CAE** — Cambridge Certificate in Advanced English (C1)
-- Breve Curso de Direito do Desporto
-- Breve Curso de Direito da Propriedade Industrial
-- Curso Intensivo de Arrendamento Urbano e Despejo
+- Short Course in Sports Law
+- Short Course in Intellectual Property Law
+- Intensive Course in Urban Leases and Eviction
 
-## Competências Jurídicas
-- Direitos Reais
-- Arrendamento Urbano
-- Urbanismo
-- Direito Administrativo
-- Contratação Pública
-- Direito das Sucessões
-- Direito Laboral
+## Legal Skills
+
+- Property Law / Rights in Rem
+- Urban Leases
+- Urban Planning Law
+- Administrative Law
+- Public Procurement
+- Succession Law
+- Labor & Employment Law
 
 ## Moot Courts
-- Moot Court de Direito Administrativo
-- Moot Court de Direito da União Europeia
-- Moot Court de Direito Internacional Público e IA
+
+- Administrative Law Moot Court
+- European Union Law Moot Court
+- Public International Law and AI Moot Court
 
 \needspace{14\baselineskip}
-## Idiomas
-- **Inglês**: C2
-- **Espanhol**: B2
-- **Italiano**: B1
-- **Alemão**: A2
 
-## Interesses
-- **Ténis:** Experiência de alta competição
-- **Futebol**
-- **Ginásio**
-- **Fotografia**
-- **Viajar:** 24 países visitados
+## Languages
 
-## Projetos e Planos Futuros
-- **Mestrado em Direito e Ciência Jurídica Laboral:** a iniciar em setembro
-- **Desenvolvimento Linguístico:** Desenvolver competências linguísticas em Espanhol e Alemão
-- **Pós-Graduação:** Pós-Graduação em Direito Imobiliário
-- **Pós-Graduação:** Pós-Graduação em Direito do Urbanismo e Ordenamento do Território
-- **Pós-Graduação:** Pós-Graduação em Direito do Desporto
+- **English**: C2
+- **Spanish**: B2
+- **Italian**: B1
+- **German**: A2
+
+## Interests
+
+- **Tennis:** High-level competitive experience
+- **Football**
+- **Gym / Fitness**
+- **Photography**
+- **Travel:** 24 countries visited
+
+## Future Projects and Plans
+
+- **Master's Degree in Law and Labor Legal Science:** Starting in September
+- **Language Development:** Further develop Spanish and German language skills
+- **Postgraduate Degree:** Postgraduate Degree in Real Estate Law
+- **Postgraduate Degree:** Postgraduate Degree in Urban Planning and Land Use Law
+- **Postgraduate Degree:** Postgraduate Degree in Sports Law

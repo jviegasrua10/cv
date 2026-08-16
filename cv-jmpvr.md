@@ -31,7 +31,7 @@ header-includes:
 - Atuação no Departamento de Imobiliário.
 
 ### Estagiário de Verão — Cartório Notarial Sofia Henriques
-**Período:** 2025  
+**Período:** 2024  
 - Experiência prática em funções notariais e Direito da Família e das Sucessões.
 
 ## Certificações e Formação Complementar

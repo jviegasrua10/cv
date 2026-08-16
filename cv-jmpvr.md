@@ -53,14 +53,11 @@ fontsize: 10pt
 - Moot Court de Direito da União Europeia
 - Moot Court de Direito Internacional Público e IA
 
-
-
-
 ## Idiomas
-- **Inglês:** C2
-- **Espanhol:** B2
-- **Italiano:** B1
-- **Alemão:** A2
+- Inglês: C2
+- Espanhol: B2
+- Italiano: B1
+- Alemão: A2
 
 ## Interesses
 - **Ténis:** Experiência de alta competição

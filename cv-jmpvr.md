@@ -1,77 +1,74 @@
----
 geometry: "top=0.75in,bottom=0.75in,left=0.75in,right=0.75in"
 fontsize: 10pt
 header-includes:
-  - \usepackage{needspace}
----
 
-# Curriculum Vitae
+\usepackage{needspace}
+Curriculum Vitae
+João Rua
 
-## João Rua
+Phone: +351 93 508 0876
+Email: jviegasrua10@gmail.com
+Date of Birth: 11/08/2004
+Location: Rua Manuel Marques, Lisbon, Portugal
 
-**Telefone**: +351 93 508 0876  
-**E-mail**: jviegasrua10@gmail.com  
-**Data de Nascimento**: 11/08/2004  
-**Localização**: Rua Manuel Marques, Lisboa, Portugal
+Education
+Law Degree — Faculty of Law, University of Lisbon
 
-## Formação Académica
+Period: 2022 – 2026
+Final Grade: 15.4/20
 
-### Licenciatura em Direito — Faculdade de Direito da Universidade de Lisboa
-**Período:** 2022 – 2026  
-- **Média Final:** 15,4
+Primary and Secondary Education — St. Peter's International School
+Period: Completed in 2022
+Final Secondary School Grade: 18.6/20
 
-### Ensino Básico e Secundário — St. Peter's International School
-**Período:** Concluído em 2022  
-- **Média Final do Secundário:** 18,6
+Professional Experience
+Summer Intern — Garrigues
 
-## Experiência Profissional
+Period: 07/2025 – 08/2025
+Worked within the Real Estate Department.
 
-### Estagiário de Verão — Garrigues
-**Período:** 07/2025 – 08/2025  
-- Atuação no Departamento de Imobiliário.
+Summer Intern — Sofia Henriques Notarial Office
+Period: 2024
+Gained practical experience in notarial matters and Family and Succession Law.
 
-### Estagiário de Verão — Cartório Notarial Sofia Henriques
-**Período:** 2024  
-- Experiência prática em funções notariais e Direito da Família e das Sucessões.
+Certifications and Additional Training
+CAE — Cambridge Certificate in Advanced English (C1)
+Short Course in Sports Law
+Short Course in Industrial Property Law
+Intensive Course on Urban Leases and Evictions
 
-## Certificações e Formação Complementar
+Legal Skills
+Property Law
+Urban Leases
+Urban Planning Law
+Administrative Law
+Public Procurement Law
+Succession Law
+Employment Law
 
-- **CAE** — Cambridge Certificate in Advanced English (C1)
-- Breve Curso de Direito do Desporto
-- Breve Curso de Direito da Propriedade Industrial
-- Curso Intensivo de Arrendamento Urbano e Despejo
-
-## Competências Jurídicas
-- Direitos Reais
-- Arrendamento Urbano
-- Urbanismo
-- Direito Administrativo
-- Contratação Pública
-- Direito das Sucessões
-- Direito Laboral
-
-## Moot Courts
-- Moot Court de Direito Administrativo
-- Moot Court de Direito da União Europeia
-- Moot Court de Direito Internacional Público e IA
+Moot Courts
+Administrative Law Moot Court
+European Union Law Moot Court
+Public International Law and AI Moot Court
 
 \needspace{14\baselineskip}
-## Idiomas
-- **Inglês**: C2
-- **Espanhol**: B2
-- **Italiano**: B1
-- **Alemão**: A2
 
-## Interesses
-- **Ténis:** Experiência de alta competição
-- **Futebol**
-- **Ginásio**
-- **Fotografia**
-- **Viajar:** 24 países visitados
+Languages
+English: C2
+Spanish: B2
+Italian: B1
+German: A2
 
-## Projetos e Planos Futuros
-- **Mestrado em Direito e Ciência Jurídica Laboral:** a iniciar em setembro
-- **Desenvolvimento Linguístico:** Desenvolver competências linguísticas em Espanhol e Alemão
-- **Pós-Graduação:** Pós-Graduação em Direito Imobiliário
-- **Pós-Graduação:** Pós-Graduação em Direito do Urbanismo e Ordenamento do Território
-- **Pós-Graduação:** Pós-Graduação em Direito do Desporto
+Interests
+Tennis: High-level competitive experience
+Football
+Gym / Fitness
+Photography
+Travel: Visited 24 countries
+
+Future Plans and Academic Development
+Master's Degree in Law and Legal Science, specialising in Employment Law: Starting in September
+Language Development: Further develop Spanish and German language skills
+Postgraduate Degree: Postgraduate Degree in Real Estate Law
+Postgraduate Degree: Postgraduate Degree in Urban Planning and Land Use Law
+Postgraduate Degree: Postgraduate Degree in Sports Law

@@ -57,10 +57,10 @@ header-includes:
 
 \needspace{14\baselineskip}
 ## Idiomas
-- Inglês: C2
-- Espanhol: B2
-- Italiano: B1
-- Alemão: A2
+- **Inglês**: C2
+- **Espanhol**: B2
+- **Italiano**: B1
+- **Alemão**: A2
 
 ## Interesses
 - **Ténis:** Experiência de alta competição

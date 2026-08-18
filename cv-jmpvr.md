@@ -87,5 +87,8 @@ header-includes:
 - **Master's Degree in Law and Labor Legal Science:** Starting in September
 - **Language Development:** Further develop Spanish and German language skills
 - **Postgraduate Degree:** Postgraduate Degree in Real Estate Law
+- **Postgraduate Degree:** Postgraduate Degree in Data protection
+- **Postgraduate Degree:** Postgraduate Degree in Fintech
+- **Postgraduate Degree:** Postgraduate Degree in Law Enforcement, Compliance and Empresarial Liability
 - **Postgraduate Degree:** Postgraduate Degree in Urban Planning and Land Use Law
 - **Postgraduate Degree:** Postgraduate Degree in Sports Law

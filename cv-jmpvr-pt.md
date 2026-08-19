@@ -72,8 +72,8 @@ header-includes:
 ## Projetos e Planos Futuros
 - **Mestrado em Direito e Ciência Jurídica Laboral:** a iniciar em setembro
 - **Desenvolvimento Linguístico:** Desenvolver competências linguísticas em Espanhol e Alemão
-- **Pós-Graduação:** Pós-Graduação em Direito Imobiliário
-- **Pós-Graduação:** Pós Graduação em Fintech
+- **Pós-Graduação:** Pós-Graduação em Direito Imobiliário (a iniciar em setembro de 2026 e terminar em fevereiro de 2027)
+- **Pós-Graduação:** Pós Graduação em Fintech (a iniciar em janeiro de 2027 e terminar em Julho de 2027)
 - **Pós-Graduação:** Pós-Graduação em Proteção de Dados
 - **Pós-Graduação:** Pós-Graduação em Law Enforcement, Compliance e Responsabilidade Empresarial
 - **Pós-Graduação:** Pós-Graduação em Direito do Urbanismo e Ordenamento do Território

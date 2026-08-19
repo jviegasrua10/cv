@@ -1,17 +1,22 @@
 name: Generate CV
 
 env:
-  PDF_FILE: "cv-jmpvr.pdf"
-  DOC_FILE: "cv-jmpvr.docx"
-  MD_FILE: "cv-jmpvr.md"
+  PDF_FILE_PT: "cv-jmpvr-pt.pdf"
+  DOC_FILE_PT: "cv-jmpvr-pt.docx"
+  MD_FILE_PT: "cv-jmpvr-pt.md"
+  PDF_FILE_EN: "cv-jmpvr-en.pdf"
+  DOC_FILE_EN: "cv-jmpvr-en.docx"
+  MD_FILE_EN: "cv-jmpvr-en.md"
 
 on:
   push:
     branches:
       - main
     paths-ignore:
-      - "cv-jmpvr.pdf"
-      - "cv-jmpvr.docx"
+      - "cv-jmpvr-pt.pdf"
+      - "cv-jmpvr-pt.docx"
+      - "cv-jmpvr-en.pdf"
+      - "cv-jmpvr-en.docx"
 
 jobs:
   generate:
@@ -32,7 +37,9 @@ jobs:
           pip install python-docx==1.1.2
 
       - name: Convert Markdown to PDF
-        run: pandoc ${{ env.MD_FILE }} -o ${{ env.PDF_FILE }} --pdf-engine=pdflatex
+        run: |
+          pandoc ${{ env.MD_FILE_PT }} -o ${{ env.PDF_FILE_PT }} --pdf-engine=pdflatex && \
+          pandoc ${{ env.MD_FILE_EN }} -o ${{ env.PDF_FILE_EN }} --pdf-engine=pdflatex
 
       - name: Create compact reference DOCX
         run: |
@@ -40,12 +47,14 @@ jobs:
           python3 create_reference_doc.py
 
       - name: Convert Markdown to DOCX
-        run: pandoc ${{ env.MD_FILE }} -o ${{ env.DOC_FILE }} --reference-doc=reference.docx
+        run: |
+          pandoc ${{ env.MD_FILE_PT }} -o ${{ env.DOC_FILE_PT }} --reference-doc=reference.docx && \
+          pandoc ${{ env.MD_FILE_EN }} -o ${{ env.DOC_FILE_EN }} --reference-doc=reference.docx
 
       - name: Check for changes
         id: verify-changed-files
         run: |
-          if [ -n "$(git status --porcelain ${{ env.PDF_FILE }} ${{ env.DOC_FILE }})" ]; then
+          if [ -n "$(git status --porcelain ${{ env.PDF_FILE_PT }} ${{ env.DOC_FILE_PT }} ${{ env.PDF_FILE_EN }} ${{ env.DOC_FILE_EN }})" ]; then
             echo "files_changed=true" >> $GITHUB_OUTPUT
           else
             echo "files_changed=false" >> $GITHUB_OUTPUT
@@ -56,6 +65,6 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add ${{ env.PDF_FILE }} ${{ env.DOC_FILE }}
+          git add ${{ env.PDF_FILE_PT }} ${{ env.DOC_FILE_PT }} ${{ env.PDF_FILE_EN }} ${{ env.DOC_FILE_EN }}
           git commit -m "Update generated CV files [skip ci]"
           git push

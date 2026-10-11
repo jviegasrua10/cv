@@ -34,21 +34,28 @@ header-includes:
 **Período:** 2024  
 - Experiência prática em funções notariais e Direito da Família e das Sucessões.
 
+### Jurista - Grupo XXI
+**Período:** Setembro de 2026 - o momento (até Março de 2027)
+- Experiência essencialmente em Direito Laboral, Direito Imobiliário, Proteção de Dados, Meios Alternativos de Resolução de Litígios;
+
 ## Certificações e Formação Complementar
 
 - **CAE** — Cambridge Certificate in Advanced English (C1)
 - Breve Curso de Direito do Desporto
 - Breve Curso de Direito da Propriedade Industrial
-- Curso Intensivo de Arrendamento Urbano e Despejo
+- Curso Intensivo de Arrendamento Urbano e Despejo pelo CIDP
+- **Pós-Graduação:** Pós-Graduação em Direito Imobiliário na Universidade Católica Portuguesa (em curso até fevereiro de 2027)
+- **Pós-Graduação:** Pós Graduação em Fintech pelo Centro de investigação de direito Privado (CIDP) (a iniciar em janeiro de 2027 e terminar em Julho de 2027)
+- **Mestrado em Direito e Ciência Jurídica Laboral:** (em curso)
 
 ## Competências Jurídicas
-- Direitos Reais
+- Direito Imobiliário
 - Arrendamento Urbano
-- Urbanismo
-- Direito Administrativo
+- Direito do Urbanismo
 - Contratação Pública
 - Direito das Sucessões
 - Direito Laboral
+  
 
 ## Moot Courts
 - Moot Court de Direito Administrativo
@@ -70,11 +77,9 @@ header-includes:
 - **Viajar:** 24 países visitados
 
 ## Projetos e Planos Futuros
-- **Mestrado em Direito e Ciência Jurídica Laboral:** a iniciar em setembro
 - **Desenvolvimento Linguístico:** Desenvolver competências linguísticas em Espanhol e Alemão
-- **Pós-Graduação:** Pós-Graduação em Direito Imobiliário (a iniciar em setembro de 2026 e terminar em fevereiro de 2027)
-- **Pós-Graduação:** Pós Graduação em Fintech (a iniciar em janeiro de 2027 e terminar em Julho de 2027)
-- **Pós-Graduação:** Pós-Graduação em Proteção de Dados
-- **Pós-Graduação:** Pós-Graduação em Law Enforcement, Compliance e Responsabilidade Empresarial
+- **Pós-Graduação:** Pós-Graduação em Proteção de Dados (iniciar no próximo ano)
+- **Pós-Graduação:** Alguns módulos avulso de Pós-Graduação em Law Enforcement, Compliance e Responsabilidade Empresarial
+- **Pós-Graduação:** Pós-Graduação em Direito Bancário (iniciar no próximo ano)
 - **Pós-Graduação:** Pós-Graduação em Direito do Urbanismo e Ordenamento do Território
 - **Pós-Graduação:** Pós-Graduação em Direito do Desporto
